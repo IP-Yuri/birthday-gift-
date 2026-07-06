@@ -74,7 +74,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const videos = {
         '1': 'images/twilight.mp4',
-        '2': 'images/birthday cake.mp4'
+        '2': 'images/birthday cake.mp4',
+        '3': 'images/belle.mp4'
     };
 
     giftBoxes.forEach(box => {
